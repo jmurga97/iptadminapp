@@ -1,0 +1,17 @@
+.register-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.error-register{
+    padding: 0 !important;
+}
+
+.form-btn{
+    display: flex;
+    justify-content: space-between;
+}
+
+.dropdown-content li>a, .dropdown-content li>span{
+    color: #f07d43 !important;
+}

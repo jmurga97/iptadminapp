@@ -1,0 +1,14 @@
+{
+  "short_name": "IPT Admin App",
+  "name": "App de Administracion de IPT",
+  "icons": [
+    {
+      "src": "ipt_ico_logo.png",
+      "sizes": "50x50"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

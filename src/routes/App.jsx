@@ -4,7 +4,7 @@ import Dashboard from "../containers/Dashboard";
 import Register from "../containers/Register";
 import AddTicket from "../containers/AddTicket";
 import InfoTicket from "../containers/InfoTicket";
-import Pagos from "../containers/Pagos";
+// import Pagos from "../containers/Pagos";
 import { Routes, Route, Navigate } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import useInitialState from "../hooks/useInitialState";
